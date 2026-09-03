@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Create Android project
+      - name: voltride
         run: |
           mkdir -p app/src/main/java/com/voltride/app
           mkdir -p app/src/main/res/values
